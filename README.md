@@ -4,6 +4,8 @@
 
 Клиентский мод для Minecraft (Fabric): гонки на лодках с кругами, позициями, секторами и HUD в стиле автосимуляторов.
 
+> ⚠️ **Альфа-версия.** Мод в ранней разработке: будут баги и недоделки. Если что-то сломалось, напиши в [Issues](https://github.com/mermen0101/lap-racer/issues).
+
 *English below.*
 
 ## Что умеет
@@ -66,6 +68,8 @@
 ---
 
 ## English
+
+> ⚠️ **Alpha.** Early development: expect bugs and unfinished parts. Please report problems in [Issues](https://github.com/mermen0101/lap-racer/issues).
 
 **Lap Race** is a client-side Fabric mod for Minecraft 26.3: boat races with lap and sector timing, a position board, a racing-sim style HUD, pit stops with fuel, an F1 car model with liveries, a racing line, a best-lap ghost, a V8 engine sound and online races through the Lap Race server.
 
