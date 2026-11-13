@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.laprace.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "BoatHudRendererMixin",
+    "KeyboardInputMixin",
+    "AbstractBoatMixin",
+    "SoundOptionsScreenMixin",
+    "BoatRenderStateMixin",
+    "AbstractBoatRendererMixin",
+    "AvatarRendererMixin",
+    "AvatarRenderStateMixin",
+    "PlayerModelMixin",
+    "FirstPersonHandsMixin",
+    "CameraMixin",
+    "ScissorProbeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

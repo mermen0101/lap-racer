@@ -1,0 +1,170 @@
+{
+  "engine.turbo": {
+    "sounds": [
+      {
+        "name": "laprace:engine/turbo",
+        "stream": false
+      }
+    ]
+  },
+  "engine.blowoff": {
+    "sounds": [
+      {
+        "name": "laprace:engine/blowoff",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_4000": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_4000",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_4000": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_4000",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_5120": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_5120",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_5120": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_5120",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_6250": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_6250",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_6250": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_6250",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_7380": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_7380",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_7380": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_7380",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_8500": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_8500",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_8500": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_8500",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_9620": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_9620",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_9620": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_9620",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_10750": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_10750",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_10750": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_10750",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_11880": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_11880",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_11880": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_11880",
+        "stream": false
+      }
+    ]
+  },
+  "engine.on_13000": {
+    "sounds": [
+      {
+        "name": "laprace:engine/on_13000",
+        "stream": false
+      }
+    ]
+  },
+  "engine.off_13000": {
+    "sounds": [
+      {
+        "name": "laprace:engine/off_13000",
+        "stream": false
+      }
+    ]
+  },
+  "engine.ignition": {
+    "sounds": [
+      {
+        "name": "laprace:engine/ignition",
+        "stream": false
+      }
+    ]
+  }
+}

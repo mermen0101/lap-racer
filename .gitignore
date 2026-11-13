@@ -1,0 +1,48 @@
+# --- secrets: never commit ---
+keys/
+*.key
+*.pem
+laprace.properties
+
+# --- server and site: not part of this repository ---
+backend/
+
+# --- game runs, builds, caches ---
+run/
+build/
+.gradle/
+out/
+*.log
+
+# --- IDE / local tools ---
+.idea/
+*.iml
+.vscode/
+.claude/
+
+# --- working material (raw sounds, samples, notes, helper scripts) ---
+samples/
+sound-preview/
+tools/
+docs/
+HANDOFF.md
+route_check.png
+
+# --- world backups, archives, temp files ---
+*.zip
+*.7z
+*.rar
+*.bak
+*.tmp
+*.wav
+*.flac
+backup*/
+*-backup*/
+
+# --- OS ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# third-party jars (taken from Modrinth at build time)
+libs/

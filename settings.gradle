@@ -1,0 +1,15 @@
+pluginManagement {
+	repositories {
+		maven {
+			name = 'Fabric'
+			url = 'https://maven.fabricmc.net/'
+		}
+		mavenCentral()
+		gradlePluginPortal()
+	}
+}
+
+rootProject.name = 'laprace'
+
+// the server side (runs on the VPS, for now on this computer): not part of the mod
+if (file('backend').exists()) include 'backend'

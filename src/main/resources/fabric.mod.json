@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "laprace",
+  "version": "${version}",
+  "name": "Lap Race",
+  "description": "Lap counting, race positions board, sector times and a racing-sim style HUD for boat races. Can restyle Boat HUD.",
+  "authors": [
+    "mermen0101"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.laprace.LapRaceClient"
+    ],
+    "modmenu": [
+      "dev.laprace.compat.ModMenuIntegration"
+    ],
+    "voicechat": [
+      "dev.laprace.net.RadioJam"
+    ]
+  },
+  "mixins": [
+    "laprace.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "boathud": "*",
+    "modmenu": "*",
+    "alinlib": "*",
+    "sodium": "*",
+    "voicechat": "*"
+  }
+}

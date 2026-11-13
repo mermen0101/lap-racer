@@ -1,0 +1,5 @@
+Engine sounds (on_*.ogg, off_*.ogg): engine "tsp" from Stunt Rally 3,
+recorded by CryHam in engine-sim (https://github.com/stuntrally/stuntrally3),
+licensed CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).
+Edited for Lap Race: loops made seamless, levelled, resampled to 48 kHz, overrun copies filtered.
+turbo.ogg and blowoff.ogg: synthesised for Lap Race (tools/v8synth.py).
