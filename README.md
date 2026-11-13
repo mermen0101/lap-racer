@@ -1,3 +1,5 @@
+<img src="icon.png" width="128" align="right" alt="">
+
 # Lap Race
 
 Клиентский мод для Minecraft (Fabric): гонки на лодках с кругами, позициями, секторами и HUD в стиле автосимуляторов.

@@ -8,6 +8,7 @@
     "mermen0101"
   ],
   "license": "MIT",
+  "icon": "assets/laprace/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
