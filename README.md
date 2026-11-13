@@ -6,6 +6,8 @@
 
 > ⚠️ **Альфа-версия.** Мод в ранней разработке: будут баги и недоделки. Если что-то сломалось, напиши в [Issues](https://github.com/mermen0101/lap-racer/issues).
 
+> ⚠️ **Нужен мир с трассами.** Встроенные трассы route1–route6, пит-лейны и боксы привязаны к координатам одного мира. В другом мире мод будет работать некорректно: не найдёт трассу, будет неверно считать круги и питы. Скачай мир: [LapRace-tracks-world.zip](https://github.com/mermen0101/lap-racer/releases/tag/world-1).
+
 *English below.*
 
 ## Что умеет
@@ -26,7 +28,8 @@
 2. Положи в папку `mods`:
    - **[Fabric API](https://modrinth.com/mod/fabric-api)** (обязательно);
    - сам мод `laprace-<версия>.jar`.
-3. Запусти игру.
+3. Скачай [мир с трассами](https://github.com/mermen0101/lap-racer/releases/tag/world-1) и распакуй архив в папку `saves` (рядом с `mods`). В списке миров он называется **Lap Race tracks**.
+4. Запусти игру и зайди в этот мир.
 
 По желанию, если хочешь:
 - [Mod Menu](https://modrinth.com/mod/modmenu): окно настроек мода из меню модов;
@@ -70,6 +73,8 @@
 ## English
 
 > ⚠️ **Alpha.** Early development: expect bugs and unfinished parts. Please report problems in [Issues](https://github.com/mermen0101/lap-racer/issues).
+
+> ⚠️ **The tracks world is required.** The built-in tracks route1–route6, pit lanes and pit boxes are tied to the coordinates of one world. In any other world the mod will not work correctly (tracks not found, wrong laps and pit stops). Download the world: [LapRace-tracks-world.zip](https://github.com/mermen0101/lap-racer/releases/tag/world-1), unzip it into `saves`.
 
 **Lap Race** is a client-side Fabric mod for Minecraft 26.3: boat races with lap and sector timing, a position board, a racing-sim style HUD, pit stops with fuel, an F1 car model with liveries, a racing line, a best-lap ghost, a V8 engine sound and online races through the Lap Race server.
 
